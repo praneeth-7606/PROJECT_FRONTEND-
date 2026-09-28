@@ -19,3 +19,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# OpenCode agent local files (never commit)
+.opencode/
+opencode.json
+.opencode-cache/
+
+# gitflow local folders (never commit)
+gitflow/
+.gitflow/
